@@ -718,7 +718,6 @@ definitions:
         - "available"
         - "pending"
         - "sold"
-        - "processing"
     xml:
       name: "Pet"
     example:
